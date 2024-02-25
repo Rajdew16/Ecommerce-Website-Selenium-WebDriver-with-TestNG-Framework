@@ -1,7 +1,7 @@
 
 # Ecommerce-Website-Selenium-WebDriver-with-TestNG-Framework
 
-Project is based on Selenium Web Automation, i have used TestNG Framework and provided various tags into test cases.
+Project is based on Selenium Web Automation, i have used TestNG Framework and provided various tags into test cases. Also i have provided Extent Reports for test cases.
 
 
 ## Run Locally
